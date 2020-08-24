@@ -1,5 +1,9 @@
 # Comentarios
-Basic Comments CRUD using: BackEnd -> Web API ASP.NET | FrontEnd -> Angular 2 | DataBase -> MySQL | ORM -> Entity FrameWork
+Basic Comments CRUD using: 
+BackEnd -> Web API ASP.NET
+FrontEnd -> Angular 2
+DataBase -> MySQL
+ORM -> Entity FrameWork
 
 This is a project which can be helpful for ASP.NET Backend Developers who need a Basic CRUD system to manage the results of a MySQL Database table through Angular FrontEnd. 
 It includes the following options: List all results, list result by Id, delete result by Id and update result by Id.
